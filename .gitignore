@@ -1,0 +1,10 @@
+# Ignore log files
+*.log
+
+# Ignore database files
+*.db
+*.duckdb
+
+# Ignore CSV and Parquet files
+*.csv
+*.parquet
